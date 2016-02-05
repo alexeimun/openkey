@@ -1,0 +1,13 @@
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\bin\Debug\OpenKey.exe.config
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\bin\Debug\OpenKey.exe
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\bin\Debug\OpenKey.pdb
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.Acerca.resources
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.openkey.resources
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.Opciones.resources
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.Properties.Resources.resources
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.csproj.GenerateResource.Cache
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.exe
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.pdb
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.csprojResolveAssemblyReference.cache
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.Ver.resources
+C:\Users\Hegel\Documents\Visual Studio 2013\Projects\OpenKey\OpenKey\obj\Debug\OpenKey.Login.resources
